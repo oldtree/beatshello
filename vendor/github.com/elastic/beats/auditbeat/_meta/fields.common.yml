@@ -1,0 +1,9 @@
+- key: common
+  title: Common
+  description: >
+    Contains common fields available in all event types.
+  fields:
+    - name: event.module
+      description: >
+        The name of the module that generated the event.
+

@@ -1,0 +1,5 @@
+2018-01-13T18:57:26.062+0800	INFO	instance/beat.go:468	Home path: [/Users/a123/Grapes/src/github.com/oldtree/beatshello] Config path: [/Users/a123/Grapes/src/github.com/oldtree/beatshello] Data path: [/Users/a123/Grapes/src/github.com/oldtree/beatshello/data] Logs path: [/Users/a123/Grapes/src/github.com/oldtree/beatshello/logs]
+2018-01-13T18:57:26.063+0800	INFO	instance/beat.go:475	Beat UUID: 6d6e2230-83bc-4ad4-96ef-8cb9a2cda54a
+2018-01-13T18:57:26.063+0800	INFO	instance/beat.go:213	Setup Beat: beatshello; Version: 7.0.0-alpha1
+2018-01-13T18:57:26.063+0800	INFO	pipeline/module.go:91	No outputs are defined. Please define one under the output section.
+2018-01-13T18:57:26.064+0800	ERROR	instance/beat.go:667	Exiting: error initializing publisher: No outputs are defined. Please define one under the output section.
