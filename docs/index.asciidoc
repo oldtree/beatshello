@@ -1,0 +1,5 @@
+= Beatshello Docs
+
+Welcome to the Beatshello documentation.
+
+

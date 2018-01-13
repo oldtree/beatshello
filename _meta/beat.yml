@@ -1,0 +1,7 @@
+################### Beatshello Configuration Example #########################
+
+############################# Beatshello ######################################
+
+beatshello:
+  # Defines how often an event is sent to the output
+  period: 1s
